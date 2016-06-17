@@ -5,7 +5,7 @@ JOB NAME simple spoorted
 JOB NO 2
 JOB REV 1
 JOB COMMENT simple supported beam design according to IS456
-ENGINEER NAME rahul kuma
+ENGINEER NAME rahul kumar
 END JOB INFORMATION
 INPUT WIDTH 79
 UNIT METER KN
