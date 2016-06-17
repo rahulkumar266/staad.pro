@@ -1,0 +1,2 @@
+# staad.pro
+simple supported
